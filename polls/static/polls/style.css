@@ -1,0 +1,9 @@
+table {
+    border: dashed;
+    border-width: 1px;
+}
+
+body {
+    color: white;
+    background: white url("images/120430.gif");
+}
